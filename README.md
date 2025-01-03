@@ -1,4 +1,4 @@
-# pybit
+# pybit-legacy
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -20,7 +20,7 @@ Official Python3 API connector for Bybit's HTTP and WebSockets APIs.
 - [Donations](#donations)
 
 ## About
-Put simply, `pybit` (Python + Bybit) is the official lightweight one-stop-shop module for the Bybit HTTP and WebSocket APIs. Originally created by [Verata Veritatis](https://github.com/verata-veritatis), it's now maintained by Bybit employees – however, you're still welcome to contribute!
+Put simply, `pybit-legacy` (Python + Bybit) is the official lightweight one-stop-shop module for the Bybit HTTP and WebSocket APIs. Originally created by [Verata Veritatis](https://github.com/verata-veritatis), it's now maintained by Bybit employees – however, you're still welcome to contribute!
 
 It was designed with the following vision in mind:
 
